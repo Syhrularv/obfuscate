@@ -1,2 +1,3 @@
 # obfuscate
-# Bash Encrypter &amp; Decrypter
+# Bash Encrypter & Decrypter
+```
