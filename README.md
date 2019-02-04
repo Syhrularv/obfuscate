@@ -1,6 +1,5 @@
 # Obfuscate & Deobfuscate
 # Bash Encrypter & Decrypter
-<br>
 ```
 $ pkg install nodejs
 $ npm install -g bash-obfuscate
