@@ -1,5 +1,7 @@
-# obfuscate & deobfuscate
+# Obfuscate & Deobfuscate
 # Bash Encrypter & Decrypter
+<br>
+Instalasi for termux
 ```
 $ pkg install nodejs
 $ npm install -g bash-obfuscate
