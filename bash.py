@@ -61,7 +61,7 @@ def dekrip():
        os.system("touch tes.sh")
        os.system("bash " + out + " > tes.sh")
        os.remove(out)
-       os.rename("tes.sh", out)
+       os.system("mv -f tes.sh " + out)
        print (sukses + "Done..")
 
    except KeyboardInterrupt:
